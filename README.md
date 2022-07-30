@@ -1,3 +1,12 @@
+# github
+
+git remote add origin https://github.com/xiaoqiuslam/ZeroMQ.git
+git branch -M main
+git push -u origin main
+
+Personal access tokens
+
+
 # ros_zeromq_tutorial
 ZeroMQ tutorial for ROS
 
